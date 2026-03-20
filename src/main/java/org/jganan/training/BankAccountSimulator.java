@@ -1,4 +1,4 @@
-package org.example;
+package org.jganan.training;
 
 import java.text.NumberFormat;
 

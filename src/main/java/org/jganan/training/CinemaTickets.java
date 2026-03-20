@@ -1,4 +1,4 @@
-package org.example;
+package org.jganan.training;
 
 public class CinemaTickets {
     final static double STANDARD_PRICE = 12.00;
